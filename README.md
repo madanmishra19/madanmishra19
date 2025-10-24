@@ -39,9 +39,7 @@
   <a href="mailto:madan@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/madanmishra19" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00D9FF" alt="Twitter" />
-  </a>
+ 
   <a href="https://madanmishra.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=globe&logoColor=00D9FF" alt="Portfolio" />
   </a>
